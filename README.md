@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2846-robot-collisions) |
