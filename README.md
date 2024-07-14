@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Two Pointers
