@@ -9,7 +9,7 @@ public:
 
        }
 
-       sort(ans.begin(),ans.end(),greater<pair<int,string>>());
+       sort(ans.begin(),ans.end(),greater<>());
        vector<string>temp;
        for( auto it:ans){
           temp.push_back(it.second);
