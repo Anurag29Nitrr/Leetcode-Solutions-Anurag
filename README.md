@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0287-find-the-duplicate-number) |
+| [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Tree
 |  |
 | ------- |
