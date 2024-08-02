@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0008-string-to-integer-atoi) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1818-maximum-score-from-removing-substrings) |
