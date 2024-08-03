@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0088-merge-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0074-search-a-2d-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2472-build-a-matrix-with-conditions) |
 ## Graph
