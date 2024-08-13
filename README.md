@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0001-two-sum) |
+| [0040-combination-sum-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0073-set-matrix-zeroes) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0078-subsets) |
 ## Sliding Window
 |  |
