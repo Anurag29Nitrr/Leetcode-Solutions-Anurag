@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0560-subarray-sum-equals-k) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0870-magic-squares-in-grid) |
 | [0948-sort-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1207-delete-nodes-and-return-forest) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
