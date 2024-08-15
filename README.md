@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0560-subarray-sum-equals-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1333-sort-the-jumbled-numbers) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1818-maximum-score-from-removing-substrings) |
