@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1013-fibonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1585-the-kth-factor-of-n) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0118-pascals-triangle) |
 | [0264-ugly-number-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1013-fibonacci-number) |
 | [1511-count-number-of-teams](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1511-count-number-of-teams) |
 ## Heap (Priority Queue)
