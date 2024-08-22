@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2050-count-good-numbers) |
 | [2645-pass-the-pillow](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2645-pass-the-pillow) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2050-count-good-numbers) |
 ## Queue
 |  |
 | ------- |
