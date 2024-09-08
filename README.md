@@ -345,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2035-count-sub-islands) |
+## Linked List
+|  |
+| ------- |
+| [0725-split-linked-list-in-parts](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0725-split-linked-list-in-parts) |
 <!---LeetCode Topics End-->
