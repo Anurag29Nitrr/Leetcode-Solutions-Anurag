@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1333-sort-the-jumbled-numbers) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1435-xor-queries-of-a-subarray) |
 | [1511-count-number-of-teams](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1435-xor-queries-of-a-subarray) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Tree
 |  |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0560-subarray-sum-equals-k) |
 | [1240-stone-game-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1240-stone-game-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1435-xor-queries-of-a-subarray) |
 | [2714-left-and-right-sum-differences](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2714-left-and-right-sum-differences) |
 ## Game Theory
 |  |
