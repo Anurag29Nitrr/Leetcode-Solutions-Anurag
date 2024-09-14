@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2714-left-and-right-sum-differences](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2846-robot-collisions) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1435-xor-queries-of-a-subarray) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Tree
 |  |
@@ -361,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0725-split-linked-list-in-parts) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
