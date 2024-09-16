@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1013-fibonacci-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1333-sort-the-jumbled-numbers) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0008-string-to-integer-atoi) |
 | [0273-integer-to-english-words](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0539-minimum-time-difference) |
 | [0664-strange-printer](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0664-strange-printer) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
