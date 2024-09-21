@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0229-majority-element-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0008-string-to-integer-atoi) |
 | [0179-largest-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0214-shortest-palindrome) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0219-contains-duplicate-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
