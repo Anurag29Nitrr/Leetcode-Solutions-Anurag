@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0731-my-calendar-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0948-sort-an-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0859-design-circular-deque) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
 |  |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
