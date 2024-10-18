@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2035-count-sub-islands](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2035-count-sub-islands) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2472-build-a-matrix-with-conditions) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Tree
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0078-subsets) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Sliding Window
 |  |
 | ------- |
@@ -506,4 +509,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1908-recyclable-and-low-fat-products) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
