@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
