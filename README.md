@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1370-count-number-of-nice-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1511-count-number-of-teams](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0074-search-a-2d-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0870-magic-squares-in-grid) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2035-count-sub-islands) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1325-path-with-maximum-probability) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2472-build-a-matrix-with-conditions) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1325-path-with-maximum-probability) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1325-path-with-maximum-probability) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2803-modify-graph-edge-weights](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2803-modify-graph-edge-weights) |
@@ -434,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0112-path-sum) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2035-count-sub-islands](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
