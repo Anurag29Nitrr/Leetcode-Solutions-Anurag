@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2645-pass-the-pillow](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2846-robot-collisions) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2846-robot-collisions) |
