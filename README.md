@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1803-average-waiting-time](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1803-average-waiting-time) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2035-count-sub-islands](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2035-count-sub-islands) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1511-count-number-of-teams) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2755-extra-characters-in-a-string](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2755-extra-characters-in-a-string) |
 ## Heap (Priority Queue)
 |  |
