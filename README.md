@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2755-extra-characters-in-a-string) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
