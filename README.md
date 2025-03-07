@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2050-count-good-numbers) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1585-the-kth-factor-of-n) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Array
 |  |
