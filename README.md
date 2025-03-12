@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0011-container-with-most-water) |
 | [0040-combination-sum-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0056-merge-intervals) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0088-merge-sorted-array) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
