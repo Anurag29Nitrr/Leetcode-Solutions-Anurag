@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2714-left-and-right-sum-differences) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1160-letter-tile-possibilities) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Simulation
