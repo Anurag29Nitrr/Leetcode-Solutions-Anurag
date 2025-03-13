@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0273-integer-to-english-words) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0283-move-zeroes) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0350-intersection-of-two-arrays-ii) |
