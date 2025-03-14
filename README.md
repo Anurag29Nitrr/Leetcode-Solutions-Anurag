@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0179-largest-number) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0229-majority-element-ii) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0128-longest-consecutive-sequence) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2035-count-sub-islands) |
 ## Linked List
