@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0073-set-matrix-zeroes) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0088-merge-sorted-array) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0118-pascals-triangle) |
@@ -593,4 +597,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
