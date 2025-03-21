@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2035-count-sub-islands) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2727-number-of-senior-citizens) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2472-build-a-matrix-with-conditions) |
 | [2803-modify-graph-edge-weights](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2803-modify-graph-edge-weights) |
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
 |  |
