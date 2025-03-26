@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2050-count-good-numbers) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2649-count-total-number-of-colored-cells) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2035-count-sub-islands](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2035-count-sub-islands) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2035-count-sub-islands) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2472-build-a-matrix-with-conditions) |
 ## Graph
