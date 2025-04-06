@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2610-closest-prime-numbers-in-range) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1803-average-waiting-time) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2035-count-sub-islands](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2035-count-sub-islands) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2509-minimize-xor) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1160-letter-tile-possibilities) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Sliding Window
 |  |
@@ -635,9 +639,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0042-trapping-rain-water) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
