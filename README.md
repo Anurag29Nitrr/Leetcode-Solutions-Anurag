@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2755-extra-characters-in-a-string](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2755-extra-characters-in-a-string) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
