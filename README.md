@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1656-count-good-triplets](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1656-count-good-triplets) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2998-count-symmetric-integers) |
