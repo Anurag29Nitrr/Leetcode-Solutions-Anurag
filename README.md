@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2280-count-good-triplets-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2472-build-a-matrix-with-conditions) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0948-sort-an-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2280-count-good-triplets-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0948-sort-an-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2280-count-good-triplets-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1511-count-number-of-teams) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2280-count-good-triplets-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -637,10 +642,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2280-count-good-triplets-in-an-array) |
 ## Database
 |  |
 | ------- |
