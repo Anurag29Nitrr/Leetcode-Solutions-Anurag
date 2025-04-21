@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2249-count-the-hidden-sequences](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2249-count-the-hidden-sequences) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2280-count-good-triplets-in-an-array) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2249-count-the-hidden-sequences](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2249-count-the-hidden-sequences) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2714-left-and-right-sum-differences](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2714-left-and-right-sum-differences) |
 ## Game Theory
