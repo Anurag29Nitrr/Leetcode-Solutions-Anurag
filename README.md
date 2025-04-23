@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1370-count-number-of-nice-subarrays) |
+| [1500-count-largest-group](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1500-count-largest-group) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1585-the-kth-factor-of-n](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1642-water-bottles) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1500-count-largest-group](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1500-count-largest-group) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2163-kth-distinct-string-in-an-array) |
