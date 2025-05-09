@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3548-find-the-count-of-good-integers](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3637-count-number-of-balanced-permutations) |
 ## Number Theory
 |  |
 | ------- |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3637-count-number-of-balanced-permutations) |
 ## Stack
 |  |
 | ------- |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2755-extra-characters-in-a-string](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2755-extra-characters-in-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3637-count-number-of-balanced-permutations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -678,4 +681,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
