@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3548-find-the-count-of-good-integers](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3637-count-number-of-balanced-permutations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Number Theory
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3548-find-the-count-of-good-integers) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
 |  |
 | ------- |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3637-count-number-of-balanced-permutations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Stack
 |  |
 | ------- |
