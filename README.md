@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Counting
 |  |
 | ------- |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3637-count-number-of-balanced-permutations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Stack
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0214-shortest-palindrome) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Function
 |  |
 | ------- |
