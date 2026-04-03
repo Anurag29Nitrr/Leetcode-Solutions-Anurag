@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3430-count-days-without-meetings](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3430-count-days-without-meetings) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2472-build-a-matrix-with-conditions) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Graph
 |  |
 | ------- |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2755-extra-characters-in-a-string](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/2755-extra-characters-in-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/3637-count-number-of-balanced-permutations) |
 ## Heap (Priority Queue)
 |  |
