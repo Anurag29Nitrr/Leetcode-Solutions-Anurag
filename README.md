@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0870-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0874-walking-robot-simulation) |
 | [0890-lemonade-change](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0948-sort-an-array](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0948-sort-an-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0768-partition-labels) |
 | [0870-magic-squares-in-grid](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0870-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0874-walking-robot-simulation) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0966-binary-subarrays-with-sum) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/0874-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/Anurag29Nitrr/Leetcode-Solutions-Anurag/tree/master/1803-average-waiting-time) |
